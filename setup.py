@@ -30,7 +30,7 @@ if __name__ == "__main__":
             'CairoSVG~=2.3',
             'h5py~=2.9.0',
             'lxml~=4.3.3',
-            'numpy~=1.16.3',
+            'numpy>=1.16.3,<1.23.0',
             'phonopy==2.1.3',
             'Pillow~=6.2.0',
             'pymatgen==2019.4.11',
